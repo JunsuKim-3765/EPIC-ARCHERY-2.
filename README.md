@@ -1,2 +1,1 @@
-# EPIC-ARCHERY-2.
-...
+# Project_Template_24
